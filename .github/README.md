@@ -1,9 +1,9 @@
 <h2 align="center">
-    ─「 𝐌ᴇʟᴀɴɪᴀ 𝘅 𝐑ᴏʙᴏᴛ 」─
+    ─「 ˹𝐒ʜɪᴋɪᴍᴏʀɪ ꭙ 𝐑ᴏʙᴏ˼ 」─
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+ᴍᴇʟᴀɴɪᴀ+ʀᴏʙᴏᴛ+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+ᴍᴀɴᴀɢᴇʀ+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥)](https://github.com/SHIVANSH475/SHIVANSH-ROBOT)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+ᴍᴇʟᴀɴɪᴀ+ʀᴏʙᴏᴛ+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+ᴍᴀɴᴀɢᴇʀ+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗛𝗘+𝗧𝗘𝗔𝗠+DEBOJIT)](https://github.com/SHIVANSH475/SHIVANSH-ROBOT)
 
 
 
