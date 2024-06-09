@@ -16,7 +16,7 @@ def totranslate(update: Update, context: CallbackContext) -> None:
             "ʀᴇᴘʟʏ ᴛᴏ ᴍᴇssᴀɢᴇs ᴏʀ ᴡʀɪᴛᴇ ᴍᴇssᴀɢᴇs ғʀᴏᴍ ᴏᴛʜᴇʀ ʟᴀɴɢᴜᴀɢᴇs ​​ғᴏʀ ᴛʀᴀɴsʟᴀᴛɪɴɢ ɪɴᴛᴏ ᴛʜᴇ ɪɴᴛᴇɴᴅᴇᴅ ʟᴀɴɢᴜᴀɢᴇ\n\n"
             "ᴇxᴀᴍᴘʟᴇ: `/tr ᴇɴ-ʜɪ` ᴛᴏ ᴛʀᴀɴsʟᴀᴛᴇ ғʀᴏᴍ ᴇɴɢʟɪsʜ ᴛᴏ ʜɪɴᴅɪ\n"
             "ᴏʀ ᴜsᴇ: `/tr en` ғᴏʀ ᴀᴜᴛᴏᴍᴀᴛɪᴄ ᴅᴇᴛᴇᴄᴛɪᴏɴ ᴀɴᴅ ᴛʀᴀɴsʟᴀᴛɪɴɢ ɪᴛ ɪɴᴛᴏ ᴇɴɢʟɪsʜ.\n"
-            "ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ sᴇᴇ [ʟɪsᴛ ᴏғ ᴀᴠᴀɪʟᴀʙʟᴇ ʟᴀɴɢᴜᴀɢᴇ ᴄᴏᴅᴇs](https://t.me/SHIVANSH474).",
+            "ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ sᴇᴇ [ʟɪsᴛ ᴏғ ᴀᴠᴀɪʟᴀʙʟᴇ ʟᴀɴɢᴜᴀɢᴇ ᴄᴏᴅᴇs](https://t.me/ULTRA_BOT_UPDATES).",
             parse_mode="markdown",
             disable_web_page_preview=True,
         )
@@ -93,7 +93,7 @@ async def repo(client, message):
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
 **» ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{z}`
 
-**ᴍᴇʟᴀɴɪᴀ ✘ ᴍᴀɴᴀɢᴇʀ ʙᴏᴛ sᴏᴜʀᴄᴇ ɪs ɴᴏᴛ ᴩᴜʙʟɪᴄ.**
+**𝐒ʜɪᴋɪᴍᴏʀɪ ✘ 𝐑ᴏʙᴏ ʙᴏᴛ sᴏᴜʀᴄᴇ ɪs ɴᴏᴛ ᴩᴜʙʟɪᴄ.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -103,7 +103,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "• ᴜᴘᴅᴀᴛᴇs •",
-                        url="https://t.me/SHIVANSH474",
+                        url="https://t.me/ULTRA_BOT_UPDATES",
                     ),
                 ]
             ]
