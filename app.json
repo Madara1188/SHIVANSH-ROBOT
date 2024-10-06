@@ -8,7 +8,7 @@
        "group",
        "manager"
     ],   
- "repository": "https://github.com/SHIVANSH475/SHIVANSH-ROBOT",
+ "repository": "https://github.com/madara1188/SHIVANSH-ROBOT",
  "stack": "heroku-22",
  "addons": [
     {
